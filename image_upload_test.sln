@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "image_upload_test", "image_upload_test\image_upload_test.csproj", "{9840B179-FD81-423B-93A5-A8B9FC883388}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9840B179-FD81-423B-93A5-A8B9FC883388}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9840B179-FD81-423B-93A5-A8B9FC883388}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9840B179-FD81-423B-93A5-A8B9FC883388}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9840B179-FD81-423B-93A5-A8B9FC883388}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD04EB51-5BD4-415E-9F55-07EA6BCB2A1C}
+	EndGlobalSection
+EndGlobal
